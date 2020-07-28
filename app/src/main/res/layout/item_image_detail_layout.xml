@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xing.tang.library.widget.FingerDragLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/image_detail_finger"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <xing.tang.library.widget.photoview.PhotoView
+        android:id="@+id/image_detail_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</xing.tang.library.widget.FingerDragLayout>
